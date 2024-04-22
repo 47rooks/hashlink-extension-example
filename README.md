@@ -69,7 +69,7 @@ First, my thanx those who created these.
 
 [1] https://github.com/HaxeFoundation/hashlink/wiki/HashLink-native-extension-tutorial
 
-   This got me most of what I needed though I found a few omissions that left me casting around for exactly how to get a full runnable program using the extension.
+   This got me most of what I needed though I found a few omissions that left me casting around for exactly how to get a full runnable program using the extension. This also contains good reference material on data types, how to pass parameters and how to handle returns.
 
 [2] https://github.com/josuigoa/hl-extension/tree/master
 
