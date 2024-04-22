@@ -69,8 +69,8 @@ First, my thanx those who created these.
 
 [1] https://github.com/HaxeFoundation/hashlink/wiki/HashLink-native-extension-tutorial
 
-    This got me most of what I needed though I found a few omissions that left me casting around for exactly how to get a full runnable program using the extension.
+   This got me most of what I needed though I found a few omissions that left me casting around for exactly how to get a full runnable program using the extension.
 
 [2] https://github.com/josuigoa/hl-extension/tree/master
 
-    This is a good example but more complex for a first try than I wanted. What I took from this mostly was the directory layout and build file.
+   This is a good example but more complex for a first try than I wanted. What I took from this mostly was the directory layout and build file.
