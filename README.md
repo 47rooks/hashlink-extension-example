@@ -47,7 +47,7 @@ See the references section below for the resources I referred to in doing this.
       1. Create another directory to house the Haxe wrapper module for the hdll. Here this is `hlext`
       2. Create a Haxe module in it like `HLExt.hx`
    4. Now in the overall project directory create a
-      1. build.hxml containg this, or similar
+      1. build.hxml containing this, or similar
         ```
         -cp hlextLib
         -main Main
