@@ -14,7 +14,7 @@ See the references section below for the resources I referred to in doing this.
       1. Create a new project
          1. File -> New Project...
          2. Select the Empty Project template and click Next
-         3. Project Name: The name of the extension - here hlextLib
+         3. Project Name: The name of the extension - here `hlextLib`
          4. Location: the project directory you created in the very first step above
          5. Solution: Create new solution
          6. Leave solution name blank
@@ -39,7 +39,7 @@ See the references section below for the resources I referred to in doing this.
       3. In the Solution Explorer right click on the Source Files directory
          1. New Item...
          2. C++ File
-         3. and name is whatever you like, here hlext.c
+         3. and name is whatever you like, here `hlext.cpp`
       4. Follow reference [1] in creating the code you need.
       5. And then build the solution
          1. if all goes well you will have an hdll undex `\x64\Debug` in your VS project
